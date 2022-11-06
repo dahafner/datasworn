@@ -6,403 +6,403 @@
       "Oracle Table": [
         {
           "Chance": 1,
-          "Description": "Scheme"
+          "Description": "Intrigieren"
         },
         {
           "Chance": 2,
-          "Description": "Clash"
+          "Description": "Konfrontieren"
         },
         {
           "Chance": 3,
-          "Description": "Weaken"
+          "Description": "Schwächen"
         },
         {
           "Chance": 4,
-          "Description": "Initiate"
+          "Description": "Einweihen"
         },
         {
           "Chance": 5,
-          "Description": "Create"
+          "Description": "Schaffen"
         },
         {
           "Chance": 6,
-          "Description": "Swear"
+          "Description": "Schwören"
         },
         {
           "Chance": 7,
-          "Description": "Avenge"
+          "Description": "Rächen"
         },
         {
           "Chance": 8,
-          "Description": "Guard"
+          "Description": "Bewachen"
         },
         {
           "Chance": 9,
-          "Description": "Defeat"
+          "Description": "Besiegen"
         },
         {
           "Chance": 10,
-          "Description": "Control"
+          "Description": "Kontrollieren"
         },
         {
           "Chance": 11,
-          "Description": "Break"
+          "Description": "Zerbrechen"
         },
         {
           "Chance": 12,
-          "Description": "Risk"
+          "Description": "Riskieren"
         },
         {
           "Chance": 13,
-          "Description": "Surrender"
+          "Description": "Aufgeben"
         },
         {
           "Chance": 14,
-          "Description": "Inspect"
+          "Description": "Inspizieren"
         },
         {
           "Chance": 15,
-          "Description": "Raid"
+          "Description": "Plündern"
         },
         {
           "Chance": 16,
-          "Description": "Evade"
+          "Description": "Ausweichen"
         },
         {
           "Chance": 17,
-          "Description": "Assault"
+          "Description": "Überfallen"
         },
         {
           "Chance": 18,
-          "Description": "Deflect"
+          "Description": "Abwehren"
         },
         {
           "Chance": 19,
-          "Description": "Threaten"
+          "Description": "Bedrohen"
         },
         {
           "Chance": 20,
-          "Description": "Attack"
+          "Description": "Angreifen"
         },
         {
           "Chance": 21,
-          "Description": "Leave"
+          "Description": "Verlassen"
         },
         {
           "Chance": 22,
-          "Description": "Preserve"
+          "Description": "Bewahren"
         },
         {
           "Chance": 23,
-          "Description": "Manipulate"
+          "Description": "Manipulieren"
         },
         {
           "Chance": 24,
-          "Description": "Remove"
+          "Description": "Entfernen"
         },
         {
           "Chance": 25,
-          "Description": "Eliminate"
+          "Description": "Eliminieren"
         },
         {
           "Chance": 26,
-          "Description": "Withdraw"
+          "Description": "Zurückziehen"
         },
         {
           "Chance": 27,
-          "Description": "Abandon"
+          "Description": "Zurücklassen"
         },
         {
           "Chance": 28,
-          "Description": "Investigate"
+          "Description": "Untersuchen"
         },
         {
           "Chance": 29,
-          "Description": "Hold"
+          "Description": "Halten"
         },
         {
           "Chance": 30,
-          "Description": "Focus"
+          "Description": "Konzentrieren"
         },
         {
           "Chance": 31,
-          "Description": "Uncover"
+          "Description": "Entdecken"
         },
         {
           "Chance": 32,
-          "Description": "Breach"
+          "Description": "Durchbrechen"
         },
         {
           "Chance": 33,
-          "Description": "Aid"
+          "Description": "Helfen"
         },
         {
           "Chance": 34,
-          "Description": "Uphold"
+          "Description": "Aufrechterhalten"
         },
         {
           "Chance": 35,
-          "Description": "Falter"
+          "Description": "Zögern"
         },
         {
           "Chance": 36,
-          "Description": "Suppress"
+          "Description": "Unterdrücken"
         },
         {
           "Chance": 37,
-          "Description": "Hunt"
+          "Description": "Jagen"
         },
         {
           "Chance": 38,
-          "Description": "Share"
+          "Description": "Teilen"
         },
         {
           "Chance": 39,
-          "Description": "Destroy"
+          "Description": "Zerstören"
         },
         {
           "Chance": 40,
-          "Description": "Avoid"
+          "Description": "Vermeiden"
         },
         {
           "Chance": 41,
-          "Description": "Reject"
+          "Description": "Ablehnen"
         },
         {
           "Chance": 42,
-          "Description": "Demand"
+          "Description": "Fordern"
         },
         {
           "Chance": 43,
-          "Description": "Explore"
+          "Description": "Erkunden"
         },
         {
           "Chance": 44,
-          "Description": "Bolster"
+          "Description": "Stärken"
         },
         {
           "Chance": 45,
-          "Description": "Seize"
+          "Description": "Ergreifen"
         },
         {
           "Chance": 46,
-          "Description": "Mourn"
+          "Description": "Betrauern"
         },
         {
           "Chance": 47,
-          "Description": "Reveal"
+          "Description": "Enthüllen"
         },
         {
           "Chance": 48,
-          "Description": "Gather"
+          "Description": "Sammeln"
         },
         {
           "Chance": 49,
-          "Description": "Defy"
+          "Description": "Trotzen"
         },
         {
           "Chance": 50,
-          "Description": "Transform"
+          "Description": "Verwandeln"
         },
         {
           "Chance": 51,
-          "Description": "Persevere"
+          "Description": "Überdauern"
         },
         {
           "Chance": 52,
-          "Description": "Serve"
+          "Description": "Dienen"
         },
         {
           "Chance": 53,
-          "Description": "Begin"
+          "Description": "Beginnen"
         },
         {
           "Chance": 54,
-          "Description": "Move"
+          "Description": "Bewegen"
         },
         {
           "Chance": 55,
-          "Description": "Coordinate"
+          "Description": "Koordinieren"
         },
         {
           "Chance": 56,
-          "Description": "Resist"
+          "Description": "Widerstehen"
         },
         {
           "Chance": 57,
-          "Description": "Await"
+          "Description": "Erwarten"
         },
         {
           "Chance": 58,
-          "Description": "Impress"
+          "Description": "Beeindrucken"
         },
         {
           "Chance": 59,
-          "Description": "Take"
+          "Description": "Nehmen"
         },
         {
           "Chance": 60,
-          "Description": "Oppose"
+          "Description": "Widersetzen"
         },
         {
           "Chance": 61,
-          "Description": "Capture"
+          "Description": "Gefangen nehmen"
         },
         {
           "Chance": 62,
-          "Description": "Overwhelm"
+          "Description": "Überwältigen"
         },
         {
           "Chance": 63,
-          "Description": "Challenge"
+          "Description": "Herausfordern"
         },
         {
           "Chance": 64,
-          "Description": "Acquire"
+          "Description": "Bekommen"
         },
         {
           "Chance": 65,
-          "Description": "Protect"
+          "Description": "Schützen"
         },
         {
           "Chance": 66,
-          "Description": "Finish"
+          "Description": "Beenden"
         },
         {
           "Chance": 67,
-          "Description": "Strengthen"
+          "Description": "Verstärken"
         },
         {
           "Chance": 68,
-          "Description": "Restore"
+          "Description": "Wiederherstellen"
         },
         {
           "Chance": 69,
-          "Description": "Advance"
+          "Description": "Vorrücken"
         },
         {
           "Chance": 70,
-          "Description": "Command"
+          "Description": "Befehlen"
         },
         {
           "Chance": 71,
-          "Description": "Refuse"
+          "Description": "Verweigern"
         },
         {
           "Chance": 72,
-          "Description": "Find"
+          "Description": "Finden"
         },
         {
           "Chance": 73,
-          "Description": "Deliver"
+          "Description": "Aushändigen"
         },
         {
           "Chance": 74,
-          "Description": "Hide"
+          "Description": "Verstecken"
         },
         {
           "Chance": 75,
-          "Description": "Fortify"
+          "Description": "Festigen"
         },
         {
           "Chance": 76,
-          "Description": "Betray"
+          "Description": "Verraten"
         },
         {
           "Chance": 77,
-          "Description": "Secure"
+          "Description": "Sichern"
         },
         {
           "Chance": 78,
-          "Description": "Arrive"
+          "Description": "Eintreffen"
         },
         {
           "Chance": 79,
-          "Description": "Affect"
+          "Description": "Beeinflussen"
         },
         {
           "Chance": 80,
-          "Description": "Change"
+          "Description": "Verändern"
         },
         {
           "Chance": 81,
-          "Description": "Defend"
+          "Description": "Verteidigen"
         },
         {
           "Chance": 82,
-          "Description": "Debate"
+          "Description": "Debattieren"
         },
         {
           "Chance": 83,
-          "Description": "Support"
+          "Description": "Unterstützen"
         },
         {
           "Chance": 84,
-          "Description": "Follow"
+          "Description": "Folgen"
         },
         {
           "Chance": 85,
-          "Description": "Construct"
+          "Description": "Bauen"
         },
         {
           "Chance": 86,
-          "Description": "Locate"
+          "Description": "Aufspüren"
         },
         {
           "Chance": 87,
-          "Description": "Endure"
+          "Description": "Aushalten"
         },
         {
           "Chance": 88,
-          "Description": "Release"
+          "Description": "Freigeben"
         },
         {
           "Chance": 89,
-          "Description": "Lose"
+          "Description": "Verlieren"
         },
         {
           "Chance": 90,
-          "Description": "Reduce"
+          "Description": "Verringern"
         },
         {
           "Chance": 91,
-          "Description": "Escalate"
+          "Description": "Eskalieren"
         },
         {
           "Chance": 92,
-          "Description": "Distract"
+          "Description": "Ablenken"
         },
         {
           "Chance": 93,
-          "Description": "Journey"
+          "Description": "Reisen"
         },
         {
           "Chance": 94,
-          "Description": "Escort"
+          "Description": "Eskortieren"
         },
         {
           "Chance": 95,
-          "Description": "Learn"
+          "Description": "Lernen"
         },
         {
           "Chance": 96,
-          "Description": "Communicate"
+          "Description": "Kommunizieren"
         },
         {
           "Chance": 97,
-          "Description": "Depart"
+          "Description": "Verabschieden"
         },
         {
           "Chance": 98,
-          "Description": "Search"
+          "Description": "Suchen"
         },
         {
           "Chance": 99,
-          "Description": "Charge"
+          "Description": "Anstürmen"
         },
         {
           "Chance": 100,
-          "Description": "Summon"
+          "Description": "Beschwören"
         }
       ]
     },
@@ -411,211 +411,211 @@
       "Oracle Table": [
         {
           "Chance": 1,
-          "Description": "Risk"
+          "Description": "Wagnis"
         },
         {
           "Chance": 2,
-          "Description": "Ability"
+          "Description": "Fähigkeit"
         },
         {
           "Chance": 3,
-          "Description": "Price"
+          "Description": "Preis"
         },
         {
           "Chance": 4,
-          "Description": "Ally"
+          "Description": "Verbündeter"
         },
         {
           "Chance": 5,
-          "Description": "Battle"
+          "Description": "BaSchlachtttle"
         },
         {
           "Chance": 6,
-          "Description": "Safety"
+          "Description": "Sicherheit"
         },
         {
           "Chance": 7,
-          "Description": "Survival"
+          "Description": "Überleben"
         },
         {
           "Chance": 8,
-          "Description": "Weapon"
+          "Description": "Waffe"
         },
         {
           "Chance": 9,
-          "Description": "Wound"
+          "Description": "Wunde"
         },
         {
           "Chance": 10,
-          "Description": "Shelter"
+          "Description": "Zuflucht"
         },
         {
           "Chance": 11,
-          "Description": "Leader"
+          "Description": "Anführer"
         },
         {
           "Chance": 12,
-          "Description": "Fear"
+          "Description": "Furcht"
         },
         {
           "Chance": 13,
-          "Description": "Time"
+          "Description": "Zeit"
         },
         {
           "Chance": 14,
-          "Description": "Duty"
+          "Description": "Verpflichtung"
         },
         {
           "Chance": 15,
-          "Description": "Secret"
+          "Description": "Geheimnis"
         },
         {
           "Chance": 16,
-          "Description": "Innocence"
+          "Description": "Unschuld"
         },
         {
           "Chance": 17,
-          "Description": "Renown"
+          "Description": "Ansehen"
         },
         {
           "Chance": 18,
-          "Description": "Direction"
+          "Description": "Richtung"
         },
         {
           "Chance": 19,
-          "Description": "Death"
+          "Description": "Tod"
         },
         {
           "Chance": 20,
-          "Description": "Honor"
+          "Description": "Ehre"
         },
         {
           "Chance": 21,
-          "Description": "Labor"
+          "Description": "Arbeit"
         },
         {
           "Chance": 22,
-          "Description": "Solution"
+          "Description": "Lösung"
         },
         {
           "Chance": 23,
-          "Description": "Tool"
+          "Description": "Werkzeug"
         },
         {
           "Chance": 24,
-          "Description": "Balance"
+          "Description": "Gleichgewicht"
         },
         {
           "Chance": 25,
-          "Description": "Love"
+          "Description": "Liebe"
         },
         {
           "Chance": 26,
-          "Description": "Barrier"
+          "Description": "Barriere"
         },
         {
           "Chance": 27,
-          "Description": "Creation"
+          "Description": "Schöpfung"
         },
         {
           "Chance": 28,
-          "Description": "Decay"
+          "Description": "Verfall"
         },
         {
           "Chance": 29,
-          "Description": "Trade"
+          "Description": "Handel"
         },
         {
           "Chance": 30,
-          "Description": "Bond"
+          "Description": "Band"
         },
         {
           "Chance": 31,
-          "Description": "Hope"
+          "Description": "Hoffnung"
         },
         {
           "Chance": 32,
-          "Description": "Superstition"
+          "Description": "Aberglaube"
         },
         {
           "Chance": 33,
-          "Description": "Peace"
+          "Description": "Frieden"
         },
         {
           "Chance": 34,
-          "Description": "Deception"
+          "Description": "Täuschung"
         },
         {
           "Chance": 35,
-          "Description": "History"
+          "Description": "Geschichte"
         },
         {
           "Chance": 36,
-          "Description": "World"
+          "Description": "Welt"
         },
         {
           "Chance": 37,
-          "Description": "Vow"
+          "Description": "Eid"
         },
         {
           "Chance": 38,
-          "Description": "Protection"
+          "Description": "Schutz"
         },
         {
           "Chance": 39,
-          "Description": "Nature"
+          "Description": "Natur"
         },
         {
           "Chance": 40,
-          "Description": "Opinion"
+          "Description": "Meinung"
         },
         {
           "Chance": 41,
-          "Description": "Burden"
+          "Description": "Belastung"
         },
         {
           "Chance": 42,
-          "Description": "Vengeance"
+          "Description": "Vergeltung"
         },
         {
           "Chance": 43,
-          "Description": "Opportunity"
+          "Description": "Gelegenheit"
         },
         {
           "Chance": 44,
-          "Description": "Faction"
+          "Description": "Gruppierung"
         },
         {
           "Chance": 45,
-          "Description": "Danger"
+          "Description": "Gefahr"
         },
         {
           "Chance": 46,
-          "Description": "Corruption"
+          "Description": "Verderbnis"
         },
         {
           "Chance": 47,
-          "Description": "Freedom"
+          "Description": "Freiheit"
         },
         {
           "Chance": 48,
-          "Description": "Debt"
+          "Description": "Schuld"
         },
         {
           "Chance": 49,
-          "Description": "Hate"
+          "Description": "Hass"
         },
         {
           "Chance": 50,
-          "Description": "Possession"
+          "Description": "Besitz"
         },
         {
           "Chance": 51,
-          "Description": "Stranger"
+          "Description": "Fremde"
         },
         {
           "Chance": 52,
-          "Description": "Passage"
+          "Description": "Überfahrt"
         },
         {
           "Chance": 53,
@@ -623,71 +623,71 @@
         },
         {
           "Chance": 54,
-          "Description": "Creature"
+          "Description": "Kreatur"
         },
         {
           "Chance": 55,
-          "Description": "Disease"
+          "Description": "Krankheit"
         },
         {
           "Chance": 56,
-          "Description": "Advantage"
+          "Description": "Vorteil"
         },
         {
           "Chance": 57,
-          "Description": "Blood"
+          "Description": "Blut"
         },
         {
           "Chance": 58,
-          "Description": "Language"
+          "Description": "Sprache"
         },
         {
           "Chance": 59,
-          "Description": "Rumor"
+          "Description": "Gerücht"
         },
         {
           "Chance": 60,
-          "Description": "Weakness"
+          "Description": "Schwäche"
         },
         {
           "Chance": 61,
-          "Description": "Greed"
+          "Description": "Gier"
         },
         {
           "Chance": 62,
-          "Description": "Family"
+          "Description": "Familie"
         },
         {
           "Chance": 63,
-          "Description": "Resource"
+          "Description": "Ressource"
         },
         {
           "Chance": 64,
-          "Description": "Structure"
+          "Description": "Bauwerk"
         },
         {
           "Chance": 65,
-          "Description": "Dream"
+          "Description": "Traum"
         },
         {
           "Chance": 66,
-          "Description": "Community"
+          "Description": "Gemeinschaft"
         },
         {
           "Chance": 67,
-          "Description": "War"
+          "Description": "Krieg"
         },
         {
           "Chance": 68,
-          "Description": "Portent"
+          "Description": "Vorzeichen"
         },
         {
           "Chance": 69,
-          "Description": "Prize"
+          "Description": "Belohnung"
         },
         {
           "Chance": 70,
-          "Description": "Destiny"
+          "Description": "Schicksal"
         },
         {
           "Chance": 71,
@@ -695,23 +695,23 @@
         },
         {
           "Chance": 72,
-          "Description": "Power"
+          "Description": "Macht"
         },
         {
           "Chance": 73,
-          "Description": "Memory"
+          "Description": "Erinnerung"
         },
         {
           "Chance": 74,
-          "Description": "Ruin"
+          "Description": "Ruine"
         },
         {
           "Chance": 75,
-          "Description": "Mysticism"
+          "Description": "Mystik"
         },
         {
           "Chance": 76,
-          "Description": "Rival"
+          "Description": "Rivale"
         },
         {
           "Chance": 77,
@@ -719,23 +719,23 @@
         },
         {
           "Chance": 78,
-          "Description": "Idea"
+          "Description": "Idee"
         },
         {
           "Chance": 79,
-          "Description": "Revenge"
+          "Description": "Rache"
         },
         {
           "Chance": 80,
-          "Description": "Health"
+          "Description": "Gesundheit"
         },
         {
           "Chance": 81,
-          "Description": "Fellowship"
+          "Description": "Gefolgschaft"
         },
         {
           "Chance": 82,
-          "Description": "Enemy"
+          "Description": "Feind"
         },
         {
           "Chance": 83,
@@ -743,71 +743,71 @@
         },
         {
           "Chance": 84,
-          "Description": "Spirit"
+          "Description": "Geist"
         },
         {
           "Chance": 85,
-          "Description": "Fame"
+          "Description": "Ruhm"
         },
         {
           "Chance": 86,
-          "Description": "Desolation"
+          "Description": "Trostlosigkeit"
         },
         {
           "Chance": 87,
-          "Description": "Strength"
+          "Description": "Stärke"
         },
         {
           "Chance": 88,
-          "Description": "Knowledge"
+          "Description": "Wissen"
         },
         {
           "Chance": 89,
-          "Description": "Truth"
+          "Description": "Wahrheit"
         },
         {
           "Chance": 90,
-          "Description": "Quest"
+          "Description": "Queste"
         },
         {
           "Chance": 91,
-          "Description": "Pride"
+          "Description": "Stolz"
         },
         {
           "Chance": 92,
-          "Description": "Loss"
+          "Description": "Verlust"
         },
         {
           "Chance": 93,
-          "Description": "Law"
+          "Description": "Gesetz"
         },
         {
           "Chance": 94,
-          "Description": "Path"
+          "Description": "Pfad"
         },
         {
           "Chance": 95,
-          "Description": "Warning"
+          "Description": "Warnung"
         },
         {
           "Chance": 96,
-          "Description": "Relationship"
+          "Description": "Beziehung"
         },
         {
           "Chance": 97,
-          "Description": "Wealth"
+          "Description": "Reichtum"
         },
         {
           "Chance": 98,
-          "Description": "Home"
+          "Description": "Heim"
         },
         {
           "Chance": 99,
-          "Description": "Strategy"
+          "Description": "Strategie"
         },
         {
           "Chance": 100,
-          "Description": "Supply"
+          "Description": "Vorräte"
         }
       ]
     },

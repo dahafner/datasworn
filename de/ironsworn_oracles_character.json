@@ -1,16 +1,16 @@
 {
-  "Title": "Ironsworn Character Oracles",
+  "Title": "Ironsworn Charakter Orakel",
   "Oracles": [
     {
-      "Name": "Role",
+      "Name": "Rolle",
       "Oracle Table": [
         {
           "Chance": 2,
-          "Description": "Criminal"
+          "Description": "Verbrecher"
         },
         {
           "Chance": 4,
-          "Description": "Healer"
+          "Description": "Heiler"
         },
         {
           "Chance": 6,
@@ -18,653 +18,653 @@
         },
         {
           "Chance": 9,
-          "Description": "Guide"
+          "Description": "Wegführer"
         },
         {
           "Chance": 12,
-          "Description": "Performer"
+          "Description": "Künstler"
         },
         {
           "Chance": 15,
-          "Description": "Miner"
+          "Description": "Bergarbeiter"
         },
         {
           "Chance": 18,
-          "Description": "Mercenary"
+          "Description": "Söldner"
         },
         {
           "Chance": 21,
-          "Description": "Outcast"
+          "Description": "Ausgestossener"
         },
         {
           "Chance": 24,
-          "Description": "Vagrant"
+          "Description": "Landstreicher"
         },
         {
           "Chance": 27,
-          "Description": "Forester"
+          "Description": "Holzfäller"
         },
         {
           "Chance": 30,
-          "Description": "Traveler"
+          "Description": "Reisender"
         },
         {
           "Chance": 33,
-          "Description": "Mystic"
+          "Description": "Mystiker"
         },
         {
           "Chance": 36,
-          "Description": "Priest"
+          "Description": "Priester"
         },
         {
           "Chance": 39,
-          "Description": "Sailor"
+          "Description": "Seefahrer"
         },
         {
           "Chance": 42,
-          "Description": "Pilgrim"
+          "Description": "Pilger"
         },
         {
           "Chance": 45,
-          "Description": "Thief"
+          "Description": "Dieb"
         },
         {
           "Chance": 48,
-          "Description": "Adventurer"
+          "Description": "Abenteurer"
         },
         {
           "Chance": 51,
-          "Description": "Forager"
+          "Description": "Sammler"
         },
         {
           "Chance": 54,
-          "Description": "Leader"
+          "Description": "Anführer"
         },
         {
           "Chance": 58,
-          "Description": "Guard"
+          "Description": "Wache"
         },
         {
           "Chance": 62,
-          "Description": "Artisan"
+          "Description": "Handwerker"
         },
         {
           "Chance": 66,
-          "Description": "Scout"
+          "Description": "Späher"
         },
         {
           "Chance": 70,
-          "Description": "Herder"
+          "Description": "Hirte"
         },
         {
           "Chance": 74,
-          "Description": "Fisher"
+          "Description": "Fischer"
         },
         {
           "Chance": 79,
-          "Description": "Warrior"
+          "Description": "Krieger"
         },
         {
           "Chance": 84,
-          "Description": "Hunter"
+          "Description": "Jäger"
         },
         {
           "Chance": 89,
-          "Description": "Raider"
+          "Description": "Plünderer"
         },
         {
           "Chance": 94,
-          "Description": "Trader"
+          "Description": "Händler"
         },
         {
           "Chance": 99,
-          "Description": "Farmer"
+          "Description": "Bauer"
         },
         {
           "Chance": 100,
-          "Description": "Unusual role"
+          "Description": "Ungewöhnliches"
         }
       ]
     },
     {
-      "Name": "Goal",
+      "Name": "Ziel",
       "Oracle Table": [
         {
           "Chance": 3,
-          "Description": "Obtain an object"
+          "Description": "Erlange einen Gegenstand"
         },
         {
           "Chance": 6,
-          "Description": "Make an agreement"
+          "Description": "Triff eine Vereinbarung"
         },
         {
           "Chance": 9,
-          "Description": "Build a relationship"
+          "Description": "Gehe eine Beziehung ein"
         },
         {
           "Chance": 12,
-          "Description": "Undermine a relationship"
+          "Description": "Sabotiere eine Beziehung"
         },
         {
           "Chance": 15,
-          "Description": "Seek a truth"
+          "Description": "Suche die Wahrheit"
         },
         {
           "Chance": 18,
-          "Description": "Pay a debt"
+          "Description": "Zahle eine Schuld zurück"
         },
         {
           "Chance": 21,
-          "Description": "Refute a falsehood"
+          "Description": "Decke eine Lüge auf"
         },
         {
           "Chance": 24,
-          "Description": "Harm a rival"
+          "Description": "Schade einem Rivalen"
         },
         {
           "Chance": 27,
-          "Description": "Cure an ill"
+          "Description": "Heile eine Krankheit"
         },
         {
           "Chance": 30,
-          "Description": "Find a person"
+          "Description": "Finde eine Person"
         },
         {
           "Chance": 33,
-          "Description": "Find a home"
+          "Description": "Finde eine Heimat"
         },
         {
           "Chance": 36,
-          "Description": "Seize power"
+          "Description": "Ergreife Macht"
         },
         {
           "Chance": 39,
-          "Description": "Restore a relationship"
+          "Description": "Erneuere eine Beziehung"
         },
         {
           "Chance": 42,
-          "Description": "Create an item"
+          "Description": "Erschaffe einen Gegenstand"
         },
         {
           "Chance": 45,
-          "Description": "Travel to a place"
+          "Description": "Reise an einen Ort"
         },
         {
           "Chance": 48,
-          "Description": "Secure provisions"
+          "Description": "Sichere die Versorgung"
         },
         {
           "Chance": 51,
-          "Description": "Rebel against power"
+          "Description": "Begehre gegen Macht auf"
         },
         {
           "Chance": 54,
-          "Description": "Collect a debt"
+          "Description": "Treibe eine Schuld ein"
         },
         {
           "Chance": 57,
-          "Description": "Protect a secret"
+          "Description": "Bewahre ein Geheimnis"
         },
         {
           "Chance": 60,
-          "Description": "Spread faith"
+          "Description": "Verbreite einen Glauben"
         },
         {
           "Chance": 63,
-          "Description": "Enrich themselves"
+          "Description": "Bereichere dich"
         },
         {
           "Chance": 66,
-          "Description": "Protect a person"
+          "Description": "Schütze eine Person"
         },
         {
           "Chance": 69,
-          "Description": "Protect the status quo"
+          "Description": "Erhalte den Status Quo"
         },
         {
           "Chance": 72,
-          "Description": "Advance status"
+          "Description": "Steige in der Gemeinschaft auf"
         },
         {
           "Chance": 75,
-          "Description": "Defend a place"
+          "Description": "Verteidige einen Ort"
         },
         {
           "Chance": 78,
-          "Description": "Avenge a wrong"
+          "Description": "Räche eine Verfehlung"
         },
         {
           "Chance": 81,
-          "Description": "Fulfill a duty"
+          "Description": "Erfülle eine Pflicht"
         },
         {
           "Chance": 84,
-          "Description": "Gain knowledge"
+          "Description": "Erlange Wissen"
         },
         {
           "Chance": 87,
-          "Description": "Prove worthiness"
+          "Description": "Stelle dein Können unter Beweis"
         },
         {
           "Chance": 90,
-          "Description": "Find redemption"
+          "Description": "Finde Erlösung"
         },
         {
           "Chance": 92,
-          "Description": "Escape from something"
+          "Description": "Fliehe vor etwas"
         },
         {
           "Chance": 95,
-          "Description": "Resolve a dispute"
+          "Description": "Schlichte einen Streit"
         },
         {
           "Chance": 100,
-          "Description": "[Roll twice]"
+          "Description": "[Würfle zweimal]"
         }
       ]
     },
     {
-      "Name": "Descriptor",
+      "Name": "Beschreibung",
       "Oracle Table": [
         {
           "Chance": 1,
-          "Description": "Stoic"
+          "Description": "stoisch"
         },
         {
           "Chance": 2,
-          "Description": "Attractive"
+          "Description": "attraktiv"
         },
         {
           "Chance": 3,
-          "Description": "Passive"
+          "Description": "lethargisch"
         },
         {
           "Chance": 4,
-          "Description": "Aloof"
+          "Description": "distanziert"
         },
         {
           "Chance": 5,
-          "Description": "Affectionate"
+          "Description": "liebevoll"
         },
         {
           "Chance": 6,
-          "Description": "Generous"
+          "Description": "grosszügig"
         },
         {
           "Chance": 7,
-          "Description": "Ironsworn"
+          "Description": "selbszufrieden"
         },
         {
           "Chance": 8,
-          "Description": "Armed"
+          "Description": "bewaffnet"
         },
         {
           "Chance": 9,
-          "Description": "Clever"
+          "Description": "gerissen"
         },
         {
           "Chance": 10,
-          "Description": "Brave"
+          "Description": "tapfer"
         },
         {
           "Chance": 11,
-          "Description": "Ugly"
+          "Description": "unansehnlich"
         },
         {
           "Chance": 12,
-          "Description": "Sociable"
+          "Description": "gesellig"
         },
         {
           "Chance": 13,
-          "Description": "Doomed"
+          "Description": "verflucht"
         },
         {
           "Chance": 14,
-          "Description": "Connected"
+          "Description": "beliebt"
         },
         {
           "Chance": 15,
-          "Description": "Bold"
+          "Description": "dreist"
         },
         {
           "Chance": 16,
-          "Description": "Jealous"
+          "Description": "eifersüchtig"
         },
         {
           "Chance": 17,
-          "Description": "Angry"
+          "Description": "zornig"
         },
         {
           "Chance": 18,
-          "Description": "Active"
+          "Description": "lebhaft"
         },
         {
           "Chance": 19,
-          "Description": "Suspicious"
+          "Description": "verdächtig"
         },
         {
           "Chance": 20,
-          "Description": "Hostile"
+          "Description": "feindselig"
         },
         {
           "Chance": 21,
-          "Description": "Hardhearted"
+          "Description": "kaltherzig"
         },
         {
           "Chance": 22,
-          "Description": "Successful"
+          "Description": "erfolgreich"
         },
         {
           "Chance": 23,
-          "Description": "Talented"
+          "Description": "erfolgreich"
         },
         {
           "Chance": 24,
-          "Description": "Experienced"
+          "Description": "erfahren"
         },
         {
           "Chance": 25,
-          "Description": "Deceitful"
+          "Description": "betrügerisch"
         },
         {
           "Chance": 26,
-          "Description": "Ambitious"
+          "Description": "ehrgeizig"
         },
         {
           "Chance": 27,
-          "Description": "Aggressive"
+          "Description": "aggressiv"
         },
         {
           "Chance": 28,
-          "Description": "Conceited"
+          "Description": "eingebildet"
         },
         {
           "Chance": 29,
-          "Description": "Proud"
+          "Description": "stolz"
         },
         {
           "Chance": 30,
-          "Description": "Stern"
+          "Description": "streng"
         },
         {
           "Chance": 31,
-          "Description": "Dependent"
+          "Description": "unselbständig"
         },
         {
           "Chance": 32,
-          "Description": "Wary"
+          "Description": "wachsam"
         },
         {
           "Chance": 33,
-          "Description": "Strong"
+          "Description": "stark"
         },
         {
           "Chance": 34,
-          "Description": "Insightful"
+          "Description": "verständnisvoll"
         },
         {
           "Chance": 35,
-          "Description": "Dangerous"
+          "Description": "gefährlich"
         },
         {
           "Chance": 36,
-          "Description": "Quirky"
+          "Description": "verschroben"
         },
         {
           "Chance": 37,
-          "Description": "Cheery"
+          "Description": "fröhlich"
         },
         {
           "Chance": 38,
-          "Description": "Disfigured"
+          "Description": "entstellt"
         },
         {
           "Chance": 39,
-          "Description": "Intolerant"
+          "Description": "intolerant"
         },
         {
           "Chance": 40,
-          "Description": "Skilled"
+          "Description": "geschickt"
         },
         {
           "Chance": 41,
-          "Description": "Stingy"
+          "Description": "geizig"
         },
         {
           "Chance": 42,
-          "Description": "Timid"
+          "Description": "schüchtern"
         },
         {
           "Chance": 43,
-          "Description": "Insensitive"
+          "Description": "unsensibel"
         },
         {
           "Chance": 44,
-          "Description": "Wild"
+          "Description": "wild"
         },
         {
           "Chance": 45,
-          "Description": "Bitter"
+          "Description": "verbittert"
         },
         {
           "Chance": 46,
-          "Description": "Cunning"
+          "Description": "verschlagen"
         },
         {
           "Chance": 47,
-          "Description": "Remorseful"
+          "Description": "reuevoll"
         },
         {
           "Chance": 48,
-          "Description": "Kind"
+          "Description": "freundlich"
         },
         {
           "Chance": 49,
-          "Description": "Charming"
+          "Description": "charmant"
         },
         {
           "Chance": 50,
-          "Description": "Oblivious"
+          "Description": "ahnungslos"
         },
         {
           "Chance": 51,
-          "Description": "Critical"
+          "Description": "skeptisch"
         },
         {
           "Chance": 52,
-          "Description": "Cautious"
+          "Description": "vorsichtig"
         },
         {
           "Chance": 53,
-          "Description": "Resourceful"
+          "Description": "einfallsreich"
         },
         {
           "Chance": 54,
-          "Description": "Weary"
+          "Description": "müde"
         },
         {
           "Chance": 55,
-          "Description": "Wounded"
+          "Description": "verwundet"
         },
         {
           "Chance": 56,
-          "Description": "Anxious"
+          "Description": "ängstlich"
         },
         {
           "Chance": 57,
-          "Description": "Powerful"
+          "Description": "kraftvoll"
         },
         {
           "Chance": 58,
-          "Description": "Athletic"
+          "Description": "athletisch"
         },
         {
           "Chance": 59,
-          "Description": "Driven"
+          "Description": "getrieben"
         },
         {
           "Chance": 60,
-          "Description": "Cruel"
+          "Description": "grausam"
         },
         {
           "Chance": 61,
-          "Description": "Quiet"
+          "Description": "ruhig"
         },
         {
           "Chance": 62,
-          "Description": "Honest"
+          "Description": "ehrlich"
         },
         {
           "Chance": 63,
-          "Description": "Infamous"
+          "Description": "verrucht"
         },
         {
           "Chance": 64,
-          "Description": "Dying"
+          "Description": "sterbend"
         },
         {
           "Chance": 65,
-          "Description": "Reclusive"
+          "Description": "zurückgezogen"
         },
         {
           "Chance": 66,
-          "Description": "Artistic"
+          "Description": "künstlerisch"
         },
         {
           "Chance": 67,
-          "Description": "Disabled"
+          "Description": "versehrt"
         },
         {
           "Chance": 68,
-          "Description": "Confused"
+          "Description": "verwirrt"
         },
         {
           "Chance": 69,
-          "Description": "Manipulative"
+          "Description": "umtriebig"
         },
         {
           "Chance": 70,
-          "Description": "Relaxed"
+          "Description": "entspannt"
         },
         {
           "Chance": 71,
-          "Description": "Stealthy"
+          "Description": "heimlich"
         },
         {
           "Chance": 72,
-          "Description": "Confident"
+          "Description": "selbstbewusst"
         },
         {
           "Chance": 73,
-          "Description": "Weak"
+          "Description": "schwach"
         },
         {
           "Chance": 74,
-          "Description": "Friendly"
+          "Description": "aufgeschlossen"
         },
         {
           "Chance": 75,
-          "Description": "Wise"
+          "Description": "weise"
         },
         {
           "Chance": 76,
-          "Description": "Influential"
+          "Description": "einflussreich"
         },
         {
           "Chance": 77,
-          "Description": "Young"
+          "Description": "jung"
         },
         {
           "Chance": 78,
-          "Description": "Adventurous"
+          "Description": "abenteuerlustig"
         },
         {
           "Chance": 79,
-          "Description": "Oppressed"
+          "Description": "unterdrückt"
         },
         {
           "Chance": 80,
-          "Description": "Vengeful"
+          "Description": "rachsüchtig"
         },
         {
           "Chance": 81,
-          "Description": "Cooperative"
+          "Description": "kooperativ"
         },
         {
           "Chance": 82,
-          "Description": "Armored"
+          "Description": "gerüstet"
         },
         {
           "Chance": 83,
-          "Description": "Apathetic"
+          "Description": "apathisch"
         },
         {
           "Chance": 84,
-          "Description": "Determined"
+          "Description": "entschlossen"
         },
         {
           "Chance": 85,
-          "Description": "Loyal"
+          "Description": "loyal"
         },
         {
           "Chance": 86,
-          "Description": "Sick"
+          "Description": "krank"
         },
         {
           "Chance": 87,
-          "Description": "Religious"
+          "Description": "religiös"
         },
         {
           "Chance": 88,
-          "Description": "Selfish"
+          "Description": "selbstsüchtig"
         },
         {
           "Chance": 89,
-          "Description": "Old"
+          "Description": "alt"
         },
         {
           "Chance": 90,
-          "Description": "Fervent"
+          "Description": "leidenschaftlich"
         },
         {
           "Chance": 91,
-          "Description": "Violent"
+          "Description": "gewalttätig"
         },
         {
           "Chance": 92,
-          "Description": "Agreeable"
+          "Description": "umgänglich"
         },
         {
           "Chance": 93,
-          "Description": "Hot-tempered"
+          "Description": "hitzköpfig"
         },
         {
           "Chance": 94,
-          "Description": "Stubborn"
+          "Description": "stur"
         },
         {
           "Chance": 95,
-          "Description": "Incompetent"
+          "Description": "unfähig"
         },
         {
           "Chance": 96,
-          "Description": "Greedy"
+          "Description": "gierig"
         },
         {
           "Chance": 97,
-          "Description": "Cowardly"
+          "Description": "feige"
         },
         {
           "Chance": 98,
-          "Description": "Obsessed"
+          "Description": "besessen"
         },
         {
           "Chance": 99,
-          "Description": "Careless"
+          "Description": "gleichgültig"
         },
         {
           "Chance": 100,
-          "Description": "Smug"
+          "Description": "eisenverschworen"
         }
       ]
     },

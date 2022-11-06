@@ -11,7 +11,7 @@
         },
         {
           "Chance": 2,
-          "Description": "Keelan"
+          "Description": "Kilan"
         },
         {
           "Chance": 3,
@@ -59,7 +59,7 @@
         },
         {
           "Chance": 14,
-          "Description": "Haleema"
+          "Description": "Halima"
         },
         {
           "Chance": 15,
@@ -91,7 +91,7 @@
         },
         {
           "Chance": 22,
-          "Description": "Haf"
+          "Description": "Hav"
         },
         {
           "Chance": 23,
@@ -119,7 +119,7 @@
         },
         {
           "Chance": 29,
-          "Description": "Jaggar"
+          "Description": "Jaqhar"
         },
         {
           "Chance": 30,
@@ -219,11 +219,11 @@
         },
         {
           "Chance": 54,
-          "Description": "Saskia"
+          "Description": "Saxa"
         },
         {
           "Chance": 55,
-          "Description": "Kabeera"
+          "Description": "Kabira"
         },
         {
           "Chance": 56,
@@ -287,7 +287,7 @@
         },
         {
           "Chance": 71,
-          "Description": "Razeena"
+          "Description": "Rasina"
         },
         {
           "Chance": 72,
@@ -343,7 +343,7 @@
         },
         {
           "Chance": 85,
-          "Description": "Emelyn"
+          "Description": "Emmelyn"
         },
         {
           "Chance": 86,
@@ -355,7 +355,7 @@
         },
         {
           "Chance": 88,
-          "Description": "Leela"
+          "Description": "Laila"
         },
         {
           "Chance": 89,
@@ -379,7 +379,7 @@
         },
         {
           "Chance": 94,
-          "Description": "Keeara"
+          "Description": "Kiara"
         },
         {
           "Chance": 95,
@@ -399,7 +399,7 @@
         },
         {
           "Chance": 99,
-          "Description": "Sabine"
+          "Description": "Savina"
         },
         {
           "Chance": 100,
@@ -475,7 +475,7 @@
         },
         {
           "Chance": 118,
-          "Description": "Tamara"
+          "Description": "Tamarr"
         },
         {
           "Chance": 119,
@@ -515,7 +515,7 @@
         },
         {
           "Chance": 128,
-          "Description": "Sayer"
+          "Description": "Saer"
         },
         {
           "Chance": 129,
@@ -531,7 +531,7 @@
         },
         {
           "Chance": 132,
-          "Description": "Keyshia"
+          "Description": "Kaischia"
         },
         {
           "Chance": 133,
@@ -559,7 +559,7 @@
         },
         {
           "Chance": 139,
-          "Description": "Kuno"
+          "Description": "Cybe"
         },
         {
           "Chance": 140,
@@ -567,7 +567,7 @@
         },
         {
           "Chance": 141,
-          "Description": "Kai"
+          "Description": "Caie"
         },
         {
           "Chance": 142,
@@ -591,7 +591,7 @@
         },
         {
           "Chance": 147,
-          "Description": "Myrtle"
+          "Description": "Myrte"
         },
         {
           "Chance": 148,
@@ -707,7 +707,7 @@
         },
         {
           "Chance": 176,
-          "Description": "Lucia"
+          "Description": "Lukia"
         },
         {
           "Chance": 177,
@@ -715,7 +715,7 @@
         },
         {
           "Chance": 178,
-          "Description": "Reema"
+          "Description": "Riema"
         },
         {
           "Chance": 179,
@@ -735,7 +735,7 @@
         },
         {
           "Chance": 183,
-          "Description": "Reese"
+          "Description": "Rhys"
         },
         {
           "Chance": 184,
@@ -763,7 +763,7 @@
         },
         {
           "Chance": 190,
-          "Description": "Katrin"
+          "Description": "Katri"
         },
         {
           "Chance": 191,
@@ -848,7 +848,7 @@
         },
         {
           "Chance": 20,
-          "Description": "Seleeku"
+          "Description": "Seliku"
         },
         {
           "Chance": 22,
@@ -1142,7 +1142,7 @@
         },
         {
           "Chance": 24,
-          "Description": "Soveen"
+          "Description": "Sojien"
         },
         {
           "Chance": 28,
@@ -1162,7 +1162,7 @@
         },
         {
           "Chance": 44,
-          "Description": "Meeka"
+          "Description": "Mika"
         },
         {
           "Chance": 48,
@@ -1227,103 +1227,103 @@
       "Oracle Table": [
         {
           "Chance": 4,
-          "Description": "Rattle"
+          "Description": "Rassler"
         },
         {
           "Chance": 8,
-          "Description": "Scratch"
+          "Description": "Kratzer"
         },
         {
           "Chance": 12,
-          "Description": "Wallow"
+          "Description": "Wühler"
         },
         {
           "Chance": 16,
-          "Description": "Groak"
+          "Description": "Krächzer"
         },
         {
           "Chance": 20,
-          "Description": "Gimble"
+          "Description": "Watschler"
         },
         {
           "Chance": 24,
-          "Description": "Scar"
+          "Description": "Schrammer"
         },
         {
           "Chance": 28,
-          "Description": "Cratch"
+          "Description": "Krabbler"
         },
         {
           "Chance": 32,
-          "Description": "Creech"
+          "Description": "Knarzer"
         },
         {
           "Chance": 36,
-          "Description": "Shush"
+          "Description": "Huscher"
         },
         {
           "Chance": 40,
-          "Description": "Glush"
+          "Description": "Gluckser"
         },
         {
           "Chance": 44,
-          "Description": "Slar"
+          "Description": "Brabbler"
         },
         {
           "Chance": 48,
-          "Description": "Gnash"
+          "Description": "Knirscher"
         },
         {
           "Chance": 52,
-          "Description": "Stoad"
+          "Description": "Hüpfer"
         },
         {
           "Chance": 56,
-          "Description": "Grig"
+          "Description": "Stakser"
         },
         {
           "Chance": 60,
-          "Description": "Bleat"
+          "Description": "Blöker"
         },
         {
           "Chance": 64,
-          "Description": "Chortle"
+          "Description": "Gurgler"
         },
         {
           "Chance": 68,
-          "Description": "Cluck"
+          "Description": "Klackerer"
         },
         {
           "Chance": 72,
-          "Description": "Slith"
+          "Description": "Schlitterer"
         },
         {
           "Chance": 76,
-          "Description": "Mongo"
+          "Description": "Drommer"
         },
         {
           "Chance": 80,
-          "Description": "Creak"
+          "Description": "Kreischer"
         },
         {
           "Chance": 84,
-          "Description": "Burble"
+          "Description": "Blubberer"
         },
         {
           "Chance": 88,
-          "Description": "Vrusk"
+          "Description": "Patscher"
         },
         {
           "Chance": 92,
-          "Description": "Snuffle"
+          "Description": "Schnüffler"
         },
         {
           "Chance": 96,
-          "Description": "Leech"
+          "Description": "Schlürfer"
         },
         {
           "Chance": 100,
-          "Description": "Herk"
+          "Description": "Greifer"
         }
       ]
     }

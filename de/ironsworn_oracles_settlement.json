@@ -2,200 +2,200 @@
   "Title": "Ironsworn Settlement Oracles",
   "Oracles": [
     {
-      "Name": "Settlement Name",
+      "Name": "Siedlungsname",
       "Oracle Table": [
         {
           "Chance": 15,
-          "Description": "A feature of the landscape",
-          "Prompt": "Envision what it is. What makes it unusual or distinctive?",
+          "Description": "Ein Landschaftsmerkmal",
+          "Prompt": "Beschreibe es - was ist daran ungewöhnlich oder besonders?",
           "Oracle Table": [
             {
               "Chance": 10,
-              "Description": "Highmount"
+              "Description": "Hochfels"
             },
             {
               "Chance": 20,
-              "Description": "Brackwater"
+              "Description": "Brackwasser"
             },
             {
               "Chance": 30,
-              "Description": "Frostwood"
+              "Description": "Frostholz"
             },
             {
               "Chance": 40,
-              "Description": "Redcrest"
+              "Description": "Rotgipfel"
             },
             {
               "Chance": 50,
-              "Description": "Grimtree"
+              "Description": "Finsterbaum"
             },
             {
               "Chance": 60,
-              "Description": "Stoneford"
+              "Description": "Steinfurt"
             },
             {
               "Chance": 70,
-              "Description": "Deepwater"
+              "Description": "Wassertief"
             },
             {
               "Chance": 80,
-              "Description": "Whitefall"
+              "Description": "Weissfall"
             },
             {
               "Chance": 90,
-              "Description": "Graycliff"
+              "Description": "Grauklipp"
             },
             {
               "Chance": 100,
-              "Description": "Three Rivers"
+              "Description": "Dreistrom"
             }
           ]
         },
         {
           "Chance": 30,
-          "Description": "A manmade edifice",
-          "Prompt": "What is it? Why is it important to this settlement’s history?",
+          "Description": "Ein von Menschen errichtetes Bauwerk",
+          "Prompt": "Was ist es und weshalb ist es für die Geschichte dieser Siedlung von Bedeutung?",
           "Oracle Table": [
             {
               "Chance": 10,
-              "Description": "Whitebridge"
+              "Description": "Weissbrück"
             },
             {
               "Chance": 20,
-              "Description": "Lonefort"
+              "Description": "Fernburg"
             },
             {
               "Chance": 30,
-              "Description": "Highcairn"
+              "Description": "Felsengrab"
             },
             {
               "Chance": 40,
-              "Description": "Redhall"
+              "Description": "Rothalle"
             },
             {
               "Chance": 50,
-              "Description": "Darkwell"
+              "Description": "Dunkelbrunn"
             },
             {
               "Chance": 60,
-              "Description": "Timberwall"
+              "Description": "Balkenwall"
             },
             {
               "Chance": 70,
-              "Description": "Stonetower"
+              "Description": "Steinturm"
             },
             {
               "Chance": 80,
-              "Description": "Thornhall"
+              "Description": "Dornensaal"
             },
             {
               "Chance": 90,
-              "Description": "Cinderhome"
+              "Description": "Zunderheim"
             },
             {
               "Chance": 100,
-              "Description": "Fallowfield"
+              "Description": "Brachfeld"
             }
           ]
         },
         {
           "Chance": 45,
-          "Description": "A creature",
-          "Prompt": "Why have the people of this settlement chosen this creature as their totem? How is it represented in art or rituals?",
+          "Description": "Eine Kreatur",
+          "Prompt": "Wieso haben die Bewohner dieser Siedlung dieses Tier als ihr Totem auserwählt? Wie wird es in Kunstwerken oder Ritualen dargestellt?",
           "Oracle Table": [
             {
               "Chance": 10,
-              "Description": "Ravencliff"
+              "Description": "Rabenklipp"
             },
             {
               "Chance": 20,
-              "Description": "Bearmark"
+              "Description": "Bärentritt"
             },
             {
               "Chance": 30,
-              "Description": "Wolfcrag"
+              "Description": "Wolfsfels"
             },
             {
               "Chance": 40,
-              "Description": "Eaglespire"
+              "Description": "Adlerzinne"
             },
             {
               "Chance": 50,
-              "Description": "Wyvern's Rest"
+              "Description": "Wivernsnest"
             },
             {
               "Chance": 60,
-              "Description": "Boarwood"
+              "Description": "Eberholz"
             },
             {
               "Chance": 70,
-              "Description": "Foxhollow"
+              "Description": "Fuchstal"
             },
             {
               "Chance": 80,
-              "Description": "Elderwatch"
+              "Description": "Ahnenwacht"
             },
             {
               "Chance": 90,
-              "Description": "Elkfield"
+              "Description": "Hirschacker"
             },
             {
               "Chance": 100,
-              "Description": "Dragonshadow"
+              "Description": "Drachenschatten"
             }
           ]
         },
         {
           "Chance": 60,
-          "Description": "A historical event",
-          "Prompt": "What happened here? What place or practice commemorates this event?",
+          "Description": "Ein historisches Ereignis",
+          "Prompt": "Was ist hier geschehen? Welcher Ort oder Brauch erinnert daran?",
           "Oracle Table": [
             {
               "Chance": 10,
-              "Description": "Swordbreak"
+              "Description": "Schwertbruch"
             },
             {
               "Chance": 20,
-              "Description": "Fool's Fall"
+              "Description": "Narrenfall"
             },
             {
               "Chance": 30,
-              "Description": "Firstmeet"
+              "Description": "Erstentreff"
             },
             {
               "Chance": 40,
-              "Description": "Brokenhelm"
+              "Description": "Splitterhelm"
             },
             {
               "Chance": 50,
-              "Description": "Mournhaunt"
+              "Description": "Trauerfluch"
             },
             {
               "Chance": 60,
-              "Description": "Olgar's Stand"
+              "Description": "Olgars Tapferkeit"
             },
             {
               "Chance": 70,
-              "Description": "Lostwater"
+              "Description": "Fehlwasser"
             },
             {
               "Chance": 80,
-              "Description": "Rojirra's Lament"
+              "Description": "Rojirras Trauer"
             },
             {
               "Chance": 90,
-              "Description": "Lastmarch"
+              "Description": "Letztmarsch"
             },
             {
               "Chance": 100,
-              "Description": "Rockfall"
+              "Description": "Steinschlag"
             }
           ]
         },
         {
           "Chance": 75,
-          "Description": "A word in an Old World language",
-          "Prompt": "What culture is represented by this word? What does it translate to?",
+          "Description": "Ein Wort in einer Sprache der Alten Welt",
+          "Prompt": "welcher Kultur stammt das Wort? Was bedeutet es?",
           "Oracle Table": [
             {
               "Chance": 10,
@@ -203,7 +203,7 @@
             },
             {
               "Chance": 20,
-              "Description": "Daveza"
+              "Description": "Davessa"
             },
             {
               "Chance": 30,
@@ -219,7 +219,7 @@
             },
             {
               "Chance": 60,
-              "Description": "Kazeera"
+              "Description": "Kazeira"
             },
             {
               "Chance": 70,
@@ -241,192 +241,192 @@
         },
         {
           "Chance": 90,
-          "Description": "A season or environmental aspect",
-          "Prompt": "What influence does the weather have on this settlement?",
+          "Description": "Ein Bezug zu einer Jahreszeit oder einem Element der Natur",
+          "Prompt": "Welchen Einfluss hat das Wetter auf diese Siedlung?",
           "Oracle Table": [
             {
               "Chance": 10,
-              "Description": "Winterhome"
+              "Description": "Winterheim"
             },
             {
               "Chance": 20,
-              "Description": "Windhaven"
+              "Description": "Windhafen"
             },
             {
               "Chance": 30,
-              "Description": "Stormrest"
+              "Description": "Sturmesruh"
             },
             {
               "Chance": 40,
-              "Description": "Bleakfrost"
+              "Description": "Bleichfrost"
             },
             {
               "Chance": 50,
-              "Description": "Springtide"
+              "Description": "Herbstflut"
             },
             {
               "Chance": 60,
-              "Description": "Duskmoor"
+              "Description": "Dämmermoor"
             },
             {
               "Chance": 70,
-              "Description": "Frostcrag"
+              "Description": "Frostklippe"
             },
             {
               "Chance": 80,
-              "Description": "Springbrook"
+              "Description": "Frühlingsquell"
             },
             {
               "Chance": 90,
-              "Description": "Icebreak"
+              "Description": "Eisbruch"
             },
             {
               "Chance": 100,
-              "Description": "Summersong"
+              "Description": "Sommerlied"
             }
           ]
         },
         {
           "Chance": 100,
-          "Description": "Something Else....",
+          "Description": "Etwas anderes...",
           "Oracle Table": [
             {
               "Chance": 10,
-              "Description": "A trade good (Ironhome)"
+              "Description": "Eine Handelsware (Eisenheim)"
             },
             {
               "Chance": 20,
-              "Description": "An Old World city (New Arkesh)"
+              "Description": "Eine Stadt der Alten Welt (Neu-Arkesh)"
             },
             {
               "Chance": 30,
-              "Description": "A founder or famous settler (Kei's Hall)"
+              "Description": "Ein Gründer oder berühmter Siedler (Caies Heim)"
             },
             {
               "Chance": 40,
-              "Description": "A god (Elisora)"
+              "Description": "Eine Gottheit (Elisora)"
             },
             {
               "Chance": 50,
-              "Description": "A historical item (Blackhelm)"
+              "Description": "Ein historischer Gegenstand (Schwarzhelm)"
             },
             {
               "Chance": 60,
-              "Description": "A firstborn race (Elfbrook)"
+              "Description": "Ein Volk der Erstgeborenen (Albenquell)"
             },
             {
               "Chance": 70,
-              "Description": "An elvish word or name (Nessana)"
+              "Description": "Ein albisches Wort oder ein Name (Nessana)"
             },
             {
               "Chance": 80,
-              "Description": "A mythic belief or event (Ghostwalk)"
+              "Description": "Ein übernatürliches Ereignis (Geisterweg)"
             },
             {
               "Chance": 90,
-              "Description": "A positive term (Hope)"
+              "Description": "Ein positiver Begriff (Hoffnung)"
             },
             {
               "Chance": 100,
-              "Description": "A negative term (Forsaken)"
+              "Description": "Ein negativer Begriff (Verdammnis)"
             }
           ]
         }
       ]
     },
     {
-      "Name": "Quick Settlement Name",
+      "Name": "Schneller Siedlungsname",
       "Oracles": [
         {
-          "Name": "Prefix",
+          "Name": "1. Komponente",
           "Oracle Table": [
             {
               "Chance": 4,
-              "Description": "Bleak-"
+              "Description": "Bleich-"
             },
             {
               "Chance": 8,
-              "Description": "Green-"
+              "Description": "Grün-"
             },
             {
               "Chance": 12,
-              "Description": "Wolf-"
+              "Description": "Wolfs-"
             },
             {
               "Chance": 16,
-              "Description": "Raven-"
+              "Description": "Raben-"
             },
             {
               "Chance": 20,
-              "Description": "Gray-"
+              "Description": "Grau-"
             },
             {
               "Chance": 24,
-              "Description": "Red-"
+              "Description": "Rod-"
             },
             {
               "Chance": 28,
-              "Description": "Axe-"
+              "Description": "Axt-"
             },
             {
               "Chance": 32,
-              "Description": "Great-"
+              "Description": "Gross-"
             },
             {
               "Chance": 36,
-              "Description": "Wood-"
+              "Description": "Wald-"
             },
             {
               "Chance": 40,
-              "Description": "Low-"
+              "Description": "Unter-"
             },
             {
               "Chance": 44,
-              "Description": "White-"
+              "Description": "Weiss-"
             },
             {
               "Chance": 48,
-              "Description": "Storm-"
+              "Description": "Sturm-"
             },
             {
               "Chance": 52,
-              "Description": "Black-"
+              "Description": "Schwarz-"
             },
             {
               "Chance": 56,
-              "Description": "Mourn-"
+              "Description": "Klage-"
             },
             {
               "Chance": 60,
-              "Description": "New-"
+              "Description": "Neu-"
             },
             {
               "Chance": 64,
-              "Description": "Stone-"
+              "Description": "Stein-"
             },
             {
               "Chance": 68,
-              "Description": "Grim-"
+              "Description": "Finster-"
             },
             {
               "Chance": 72,
-              "Description": "Lost-"
+              "Description": "Schatten-"
             },
             {
               "Chance": 76,
-              "Description": "High-"
+              "Description": "Hoch-"
             },
             {
               "Chance": 80,
-              "Description": "Rock-"
+              "Description": "Fels-"
             },
             {
               "Chance": 84,
-              "Description": "Shield-"
+              "Description": "Schild-"
             },
             {
               "Chance": 88,
-              "Description": "Sword-"
+              "Description": "Schwert-"
             },
             {
               "Chance": 92,
@@ -434,16 +434,16 @@
             },
             {
               "Chance": 96,
-              "Description": "Thorn-"
+              "Description": "Dorn-"
             },
             {
               "Chance": 100,
-              "Description": "Long-"
+              "Description": "Lang-"
             }
           ]
         },
         {
-          "Name": "Suffix",
+          "Name": "2. Komponente",
           "Oracle Table": [
             {
               "Chance": 4,
@@ -451,63 +451,63 @@
             },
             {
               "Chance": 8,
-              "Description": "-ford"
+              "Description": "-furt"
             },
             {
               "Chance": 12,
-              "Description": "-crag"
+              "Description": "-klipp"
             },
             {
               "Chance": 16,
-              "Description": "-watch"
+              "Description": "-wacht"
             },
             {
               "Chance": 20,
-              "Description": "-hope"
+              "Description": "-schimmer"
             },
             {
               "Chance": 24,
-              "Description": "-wood"
+              "Description": "-wald"
             },
             {
               "Chance": 28,
-              "Description": "-ridge"
+              "Description": "-grat"
             },
             {
               "Chance": 32,
-              "Description": "-stone"
+              "Description": "-stein"
             },
             {
               "Chance": 36,
-              "Description": "-haven"
+              "Description": "-hafen"
             },
             {
               "Chance": 40,
-              "Description": "-fall(s)"
+              "Description": "-fall"
             },
             {
               "Chance": 44,
-              "Description": "-river"
+              "Description": "-bach"
             },
             {
               "Chance": 48,
-              "Description": "-field"
+              "Description": "-feld"
             },
             {
               "Chance": 52,
-              "Description": "-hill"
+              "Description": "-hügel"
             },
             {
               "Chance": 56,
-              "Description": "-bridge"
+              "Description": "-brück"
             },
             {
               "Chance": 60,
-              "Description": "-mark"
+              "Description": "-tritt"
             },
             {
               "Chance": 64,
-              "Description": "-cairn"
+              "Description": "-grab"
             },
             {
               "Chance": 68,
@@ -515,226 +515,226 @@
             },
             {
               "Chance": 72,
-              "Description": "-hall"
+              "Description": "-halle"
             },
             {
               "Chance": 76,
-              "Description": "-mount"
+              "Description": "-berg"
             },
             {
               "Chance": 80,
-              "Description": "-rock"
+              "Description": "-fels"
             },
             {
               "Chance": 84,
-              "Description": "-brook"
+              "Description": "-quell"
             },
             {
               "Chance": 88,
-              "Description": "-barrow"
+              "Description": "-bruch"
             },
             {
               "Chance": 92,
-              "Description": "-stead"
+              "Description": "-hof"
             },
             {
               "Chance": 96,
-              "Description": "-home"
+              "Description": "-heim"
             },
             {
               "Chance": 100,
-              "Description": "-wick"
+              "Description": "-wall"
             }
           ]
         }
       ]
     },
     {
-      "Name": "Settlement Trouble",
+      "Name": "Problem der Siedlung",
       "Oracle Table": [
         {
           "Chance": 2,
-          "Description": "Outsiders rejected"
+          "Description": "Fremde werden abgewiesen"
         },
         {
           "Chance": 4,
-          "Description": "Dangerous discovery"
+          "Description": "Gefährliche Entdeckung"
         },
         {
           "Chance": 6,
-          "Description": "Dreadful omens"
+          "Description": "Schreckliche Vorzeichen"
         },
         {
           "Chance": 8,
-          "Description": "Natural disaster"
+          "Description": "Naturkatastrophe"
         },
         {
           "Chance": 10,
-          "Description": "Old wounds reopened"
+          "Description": "Alte Wunden aufgerissen"
         },
         {
           "Chance": 12,
-          "Description": "Important object is lost"
+          "Description": "Wichtiges Objekt verschwunden"
         },
         {
           "Chance": 14,
-          "Description": "Someone is captured"
+          "Description": "Jemand ist gefangen"
         },
         {
           "Chance": 16,
-          "Description": "Mysterious phenomenon"
+          "Description": "Geheimnisvolles Phänomen"
         },
         {
           "Chance": 18,
-          "Description": "Revolt against a leader"
+          "Description": "Aufstand gegen einen Anführer"
         },
         {
           "Chance": 20,
-          "Description": "Vengeful outcast"
+          "Description": "Rachsüchtiger Ausgestossener"
         },
         {
           "Chance": 22,
-          "Description": "Rival settlement"
+          "Description": "Rivalisierende Gemeinschaft"
         },
         {
           "Chance": 24,
-          "Description": "Nature strikes back"
+          "Description": "Die Natur schlägt zurück"
         },
         {
           "Chance": 26,
-          "Description": "Someone is missing"
+          "Description": "Jemand ist verschwunden"
         },
         {
           "Chance": 28,
-          "Description": "Production halts"
+          "Description": "Produktion liegt darnieder"
         },
         {
           "Chance": 30,
-          "Description": "Mysterious murders"
+          "Description": "Ungeklärte Morde"
         },
         {
           "Chance": 32,
-          "Description": "Debt comes due"
+          "Description": "Eine Schuld wird fällig"
         },
         {
           "Chance": 34,
-          "Description": "Unjust leadership"
+          "Description": "Ungerechte Herrschaft"
         },
         {
           "Chance": 36,
-          "Description": "Disastrous accident"
+          "Description": "Schlimmer Unfall"
         },
         {
           "Chance": 38,
-          "Description": "In league with the enemy"
+          "Description": "Mit dem Feind verbündet"
         },
         {
           "Chance": 40,
-          "Description": "Raiders prey on the weak"
+          "Description": "Schwache werden ausgeplündert"
         },
         {
           "Chance": 42,
-          "Description": "Cursed past"
+          "Description": "Fluch aus der Vergangenheit"
         },
         {
           "Chance": 44,
-          "Description": "An innocent is accused"
+          "Description": "Ein Unschuldiger wird angeklagt"
         },
         {
           "Chance": 46,
-          "Description": "Corrupted by dark magic"
+          "Description": "Durch finstere Magie verdorben"
         },
         {
           "Chance": 48,
-          "Description": "Isolated by brutal weather"
+          "Description": "Durch Unwetter abgeschnitten"
         },
         {
           "Chance": 50,
-          "Description": "Provisions are scarce"
+          "Description": "Nahrung ist knapp"
         },
         {
           "Chance": 52,
-          "Description": "Sickness run amok"
+          "Description": "Krankheit wütet"
         },
         {
           "Chance": 54,
-          "Description": "Allies become enemies"
+          "Description": "Verbündete werden zu Feinden"
         },
         {
           "Chance": 56,
-          "Description": "Attack is imminent"
+          "Description": "Bevorstehender Angriff"
         },
         {
           "Chance": 58,
-          "Description": "Lost caravan"
+          "Description": "Verschollener Handelszug"
         },
         {
           "Chance": 60,
-          "Description": "Dark secret revealed"
+          "Description": "Dunkles Geheimnis enthüllt"
         },
         {
           "Chance": 62,
-          "Description": "Urgent expedition"
+          "Description": "Dringende Expedition"
         },
         {
           "Chance": 64,
-          "Description": "A leader falls"
+          "Description": "Sturz eines Anführers"
         },
         {
           "Chance": 66,
-          "Description": "Families in conflict"
+          "Description": "Familienfehde"
         },
         {
           "Chance": 68,
-          "Description": "Incompetent leadership"
+          "Description": "Unfähige Herrschaft"
         },
         {
           "Chance": 70,
-          "Description": "Reckless warmongering"
+          "Description": "Rücksichtslose Kriegstreiberei"
         },
         {
           "Chance": 72,
-          "Description": "Beast on the hunt"
+          "Description": "Bestie auf der Jagd"
         },
         {
           "Chance": 74,
-          "Description": "Betrayed from within"
+          "Description": "Von innen verraten"
         },
         {
           "Chance": 76,
-          "Description": "Broken truce"
+          "Description": "Waffenstillstand gebrochen"
         },
         {
           "Chance": 78,
-          "Description": "Wrathful haunt"
+          "Description": "Wütendes Gespenst"
         },
         {
           "Chance": 80,
-          "Description": "Conflict with firstborn"
+          "Description": "Konflikt mit Erstgeborenen"
         },
         {
           "Chance": 82,
-          "Description": "Trade route blocked"
+          "Description": "Handelsroute blockiert"
         },
         {
           "Chance": 84,
-          "Description": "In the crossfire"
+          "Description": "Im Kreuzfeuer"
         },
         {
           "Chance": 86,
-          "Description": "Stranger causes discord"
+          "Description": "Ein Fremder sorgt für Zwist"
         },
         {
           "Chance": 88,
-          "Description": "Important event threatened"
+          "Description": "Wichtiges Ereignis in Gefahr"
         },
         {
           "Chance": 90,
-          "Description": "Dangerous tradition"
+          "Description": "Gefährliche Tradition"
         },
         {
           "Chance": 100,
-          "Description": "[Roll twice]"
+          "Description": "[Würfle zweimal]"
         }
       ]
     }

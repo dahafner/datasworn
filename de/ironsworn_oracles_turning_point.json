@@ -1,271 +1,291 @@
 {
-  "Title": "Ironsworn Turning Point Oracles",
+  "Title": "Ironsworn Wendungen Orakel",
   "Oracles": [
     {
-      "Name": "Challenge Rank",
+      "Name": "Schwierigkeit",
       "Oracle Table": [
         {
           "Chance": 20,
-          "Description": "Troublesome"
+          "Description": "Lästig"
         },
         {
           "Chance": 55,
-          "Description": "Dangerous"
+          "Description": "Gefährlich"
         },
         {
           "Chance": 80,
-          "Description": "Formidable"
+          "Description": "Gewaltig"
         },
         {
           "Chance": 93,
-          "Description": "Extreme"
+          "Description": "Extrem"
         },
         {
           "Chance": 100,
-          "Description": "Epic"
+          "Description": "Episch"
         }
       ]
     },
     {
-      "Name": "Combat Action",
+      "Name": "Kampfhandlung",
       "Oracle Table": [
         {
           "Chance": 3,
-          "Description": "Compel a surrender."
+          "Description": "Zwinge zum Aufgeben."
         },
         {
           "Chance": 6,
-          "Description": "Coordinate with allies."
+          "Description": "Koordiniere dich mit Verbündeten."
         },
         {
           "Chance": 9,
-          "Description": "Gather reinforcements."
+          "Description": "Rufe Verstärkung."
         },
         {
           "Chance": 13,
-          "Description": "Seize something or someone."
+          "Description": "Ergreife etwas oder jemanden."
         },
         {
           "Chance": 17,
-          "Description": "Provoke a reckless response."
+          "Description": "Provoziere eine leichtsinnige Reaktion."
         },
         {
           "Chance": 21,
-          "Description": "Intimidate or frighten."
+          "Description": "Schüchtere ein oder erschrecke."
         },
         {
           "Chance": 25,
-          "Description": "Reveal a surprising truth."
+          "Description": "Enthülle eine Überraschung."
         },
         {
           "Chance": 29,
-          "Description": "Shift focus to someone or something else."
+          "Description": "Lenke Aufmerksamkeit auf jemand oder etwas anderes."
         },
         {
           "Chance": 33,
-          "Description": "Destroy something, or render it useless."
+          "Description": "Zerstöre etwas oder mach es unbrauchbar."
         },
         {
           "Chance": 39,
-          "Description": "Take a decisive action."
+          "Description": "Erzwinge eine Entscheidung."
         },
         {
           "Chance": 45,
-          "Description": "Reinforce defenses."
+          "Description": "Verstärke deine Verteidigung."
         },
         {
           "Chance": 52,
-          "Description": "Ready an action."
+          "Description": "Bereite eine Handlung vor."
         },
         {
           "Chance": 60,
-          "Description": "Use the terrain to gain advantage."
+          "Description": "Nutze das Terrain zu deinem Vorteil."
         },
         {
           "Chance": 68,
-          "Description": "Leverage the advantage of a weapon or ability."
+          "Description": "Nutze den Vorteil einer Waffe oder Fähigkeit."
         },
         {
           "Chance": 78,
-          "Description": "Create an opportunity."
+          "Description": "Erzeuge eine Gelegenheit."
         },
         {
           "Chance": 89,
-          "Description": "Attack with precision."
+          "Description": "Greife mit Wucht an."
         },
         {
           "Chance": 100,
-          "Description": "Attack with power."
+          "Description": "Tu etwas vollkommen Unerwartetes."
         }
       ]
     },
     {
-      "Name": "Major Plot Twist",
-      "Oracle Table": [
-        {
-          "Chance": 2,
-          "Description": "It was all a diversion."
-        },
-        {
-          "Chance": 10,
-          "Description": "A dark secret is revealed."
-        },
-        {
-          "Chance": 15,
-          "Description": "A trap is sprung."
-        },
-        {
-          "Chance": 20,
-          "Description": "An assumption is revealed to be false."
-        },
-        {
-          "Chance": 25,
-          "Description": "A secret alliance is revealed."
-        },
-        {
-          "Chance": 30,
-          "Description": "Your actions benefit an enemy."
-        },
-        {
-          "Chance": 35,
-          "Description": "Someone returns unexpectedly."
-        },
-        {
-          "Chance": 40,
-          "Description": "A more dangerous foe is revealed."
-        },
-        {
-          "Chance": 45,
-          "Description": "You and an enemy share a common goal."
-        },
-        {
-          "Chance": 50,
-          "Description": "A true identity is revealed."
-        },
-        {
-          "Chance": 55,
-          "Description": "You are betrayed by someone who was trusted."
-        },
-        {
-          "Chance": 60,
-          "Description": "You are too late."
-        },
-        {
-          "Chance": 65,
-          "Description": "The true enemy is revealed."
-        },
-        {
-          "Chance": 70,
-          "Description": "The enemy gains new allies."
-        },
-        {
-          "Chance": 75,
-          "Description": "A new danger appears."
-        },
-        {
-          "Chance": 80,
-          "Description": "Someone or something goes missing."
-        },
-        {
-          "Chance": 85,
-          "Description": "The truth of a relationship is revealed."
-        },
-        {
-          "Chance": 90,
-          "Description": "Two seemingly unrelated situations are shown to be connected."
-        },
-        {
-          "Chance": 95,
-          "Description": "Unexpected powers or abilities are revealed."
-        },
-        {
-          "Chance": 100,
-          "Description": "[Roll twice]"
-        }
-      ]
-    },
-    {
-      "Name": "Mystic Backlash",
+      "Name": "Dramatische Wendung",
       "Oracle Table": [
         {
           "Chance": 5,
-          "Description": "The ritual has the opposite affect."
+          "Description": "Das Ganze war bloß ein Ablenkungsmanöver."
         },
         {
           "Chance": 10,
-          "Description": "You are sapped of strength."
+          "Description": "Ein finsteres Geheimnis kommt ans Licht."
         },
         {
           "Chance": 15,
-          "Description": "An ally, companion or friend is adversely affected."
+          "Description": "Eine Falle schnappt zu."
         },
         {
           "Chance": 20,
-          "Description": "An important object is destroyed."
+          "Description": "Eine Annahme stellt sich als falsch heraus."
         },
         {
           "Chance": 25,
-          "Description": "A horror is drawn to you like a moth to a flame."
+          "Description": "Ein geheimes Bündnis wird offenbart."
         },
         {
           "Chance": 30,
-          "Description": "You collapse, and drift into a troubled sleep."
+          "Description": "Deine Taten nützen einem Feind."
         },
         {
           "Chance": 35,
-          "Description": "You undergo a physical torment which leaves its mark upon you."
+          "Description": "Jemand kehrt unerwartet zurück."
         },
         {
           "Chance": 40,
-          "Description": "Ghostly voices whisper of dark portents. Envision what they tell you."
+          "Description": "Ein noch gefährlicherer Feind wird enthüllt."
         },
         {
           "Chance": 45,
-          "Description": "You are lost in shadow, and find yourself in another placewithout memory of how you got there. Envision your new surroundings."
+          "Description": "Du und ein Feind habt ein gemeinsames Ziel."
         },
         {
           "Chance": 50,
-          "Description": "You alert someone or something to your presence."
+          "Description": "Eine wahre Identität kommt ans Licht."
         },
         {
           "Chance": 55,
-          "Description": "You are not yourself, and act against a friend, ally or companion. Envision what you do and how they respond."
+          "Description": "Jemand, dem du vertraut hast, verrät dich."
         },
         {
           "Chance": 60,
-          "Description": "You affect or damage your surroundings, causing a disturbance or potential harm."
+          "Description": "Du kommst zu spät."
         },
         {
           "Chance": 65,
-          "Description": "Supply is wasted."
+          "Description": "Dein wahrer Feind wird offenbart."
         },
         {
           "Chance": 70,
-          "Description": "Creatures exhibit strange or aggressive behavior."
+          "Description": "Dein Feind bekommt neue Verbündete."
         },
         {
           "Chance": 75,
-          "Description": "You lose your connection to magic for a day or so, and cannot perform rituals."
+          "Description": "Eine neue Gefahr taucht auf."
         },
         {
           "Chance": 80,
-          "Description": "The ritual affects the target in an unexpected and problematic way."
+          "Description": "Jemand oder etwas verschwindet."
         },
         {
           "Chance": 85,
-          "Description": "The ritual reveals a surprising and troubling truth."
+          "Description": "Die wahre Natur einer Beziehung wird enthüllt."
         },
         {
           "Chance": 90,
-          "Description": "You are tempted by dark powers. Envision what you are shown."
+          "Description": "Zwei scheinbar unzusammenhängende Situationen sind verbunden."
         },
         {
           "Chance": 95,
-          "Description": "A horrifying vision manifests. Envision what you see."
+          "Description": "Unerwartete Kräfte oder Fähigkeiten werden offenbart."
         },
         {
           "Chance": 100,
-          "Description": "Roll twice more on this table. Both results occur. If they are the same result, make it worse."
+          "Description": "[Würfle zweimal. Beide Ergebnisse treten ein. Falls sie identisch sind, mach das Ergebnis noch dramatischer.]"
+        }
+      ]
+    },
+    {
+      "Name": "Mytischer Fehlschlag",
+      "Oracle Table": [
+        {
+          "Chance": 4,
+          "Description": "Dein Ritual hat einen gegenteiligen Effekt."
+        },
+        {
+          "Chance": 8,
+          "Description": "Dir wird Kraft entzogen."
+        },
+        {
+          "Chance": 12,
+          "Description": "Es hat negative Auswirkungen für einen Freund, Verbündeten oder Begleiter von dir."
+        },
+        {
+          "Chance": 16,
+          "Description": "Du zerstörst einen wichtigen Gegenstand."
+        },
+        {
+          "Chance": 20,
+          "Description": "Du beschwörst unabsichtlich einen Schrecken."
+        },
+        {
+          "Chance": 24,
+          "Description": "Du brichst zusammen und fällst in einen unruhigen Schlaf."
+        },
+        {
+          "Chance": 28,
+          "Description": "Du erleidest körperliche Qualen, die dich zeichnen."
+        },
+        {
+          "Chance": 32,
+          "Description": "Geisterhafte Stimmen flüstern dir düstere Vorzeichen ein."
+        },
+        {
+          "Chance": 36,
+          "Description": "Du versinkst in Dunkelheit und findest dich an einem anderen Ort wieder. Du kannst dich nicht erinnern, wie du hergekommen bist."
+        },
+        {
+          "Chance": 40,
+          "Description": "Du machst jemanden oder etwas auf dich aufmerksam."
+        },
+        {
+          "Chance": 44,
+          "Description": "Du bist nicht mehr du selbst und wendest dich gegen einen Freund, Verbündeten oder Begleiter."
+        },
+        {
+          "Chance": 48,
+          "Description": "Du beschädigst oder beeinträchtigst deine Umgebung, stiftest Unruhe und verletzt eventuell jemanden."
+        },
+        {
+          "Chance": 52,
+          "Description": "Du verschwendest Material."
+        },
+        {
+          "Chance": 56,
+          "Description": "Du verlierst einen deiner Sinne für mehrere Stunden."
+        },
+        {
+          "Chance": 60,
+          "Description": "Für ungefähr einen Tag verlierst du deine Verbindung zu Magie und kannst keinerlei Rituale durchführen."
+        },
+        {
+          "Chance": 64,
+          "Description": "Dein Ritual hat unerwartete, problematische Auswirkungen auf sein Ziel."
+        },
+        {
+          "Chance": 68,
+          "Description": "Dein Ritual enthüllt eine besorgniserregende Überraschung."
+        },
+        {
+          "Chance": 72,
+          "Description": "Finstere Mächte führen dich in Versuchung."
+        },
+        {
+          "Chance": 76,
+          "Description": "Du empfängst eine bestürzende Vision deiner Zukunft."
+        },
+        {
+          "Chance": 80,
+          "Description": "Du kannst dieses Ritual erst wieder durchführen, wenn du eine wichtige Komponente bekommst."
+        }
+        {
+          "Chance": 84,
+          "Description": "Du entwickelst eine eigenartige Furcht oder einen Zwang."
+        }
+        {
+          "Chance": 88,
+          "Description": "Dein Ritual löst seltsames oder aggressives Verhalten in Tieren aus."
+        }
+        {
+          "Chance": 92,
+          "Description": "Eine Erscheinung aus deiner Vergangenheit quält dich."
+        }
+        {
+          "Chance": 96,
+          "Description": "Heftige Übelkeit überkommt dich."
+        }
+        {
+          "Chance": 100,
+          "Description": "Würfle zweimal. Beide Ergebnisse treten ein. Falls sie identisch sind, verschlimmere das Ergebnis."
         }
       ]
     }

@@ -1,95 +1,95 @@
 {
-  "Title": "Ironsworn Foes",
+  "Title": "Ironsworn Feinde",
   "Categories": [
   {
     "Name": "Ironlander",
-    "Description": "Ironlanders are the human inhabitants of these lands. Unless your story emphasizes adventures well outside of the settled regions, the majority of your interactions will be with fellow Ironlanders.\n\nThis section covers a few broad categories of Ironlanders. They are not representative of the variety of people and cultures in these lands. When you are forced to fight an Ironlander and need to determine their rank, you can *Ask the Oracle*, or follow these guidelines:\n\n  * A common citizen or brute is **troublesome**.\n\n  * A trained warrior is **dangerous**.\n\n  * A powerful or veteran warrior is **formidable**.",
+    "Description": "Eisenländer sind die menschlichen Bewohner der Eisenlande. Ein Großteil deiner Geschichte wird sich um die Interaktion mit Eisenländern drehen, falls deine Abenteuer nicht fernab der bewohnten Gebiete spielen sollen.\n\nIn diesem Abschnitt geht es um einige breit gefasste Gruppierungen der Eisenländer. Diese stellen jedoch nicht die volle Vielfalt der Völker und Kulturen dieses Landes dar. Wenn du gegen einen Eisenländer kämpfen musst und eine Schwierigkeit für ihn brauchst, kannst du *Das Orakel befragen* oder dich an diese Richtlinien halten:\n\n  * Einfache Leute oder Banditen sind **lästig**.\n\n  * Ausgebildete Krieger sind **gefährlich**.\n\n  * Mächtige und erfahrene Kämpfer sind **gewaltig**.",
     "Foes": [
     {
-      "Name": "Broken",
-      "Rank": "Troublesome",
+      "Name": "Gebrochene",
+      "Rank": "Lästig",
       "Source":
       {
         "Name": "Ironsworn rulebook",
         "Page": "138"
       },
-      "Features": [ "Crazed eyes", "Painted skin", "Feral Screams", "Scavenged clothing and weapons" ],
-      "Drives": [ "Show my power", "Share my pain" ],
-      "Tactics": [ "Spring from hiding", "Ferocious attacks" ],
-      "Description": "Another people sailed to the Ironlands from the Old World long before our kin settled here. Something happened. Something changed them.\n\n Whether it was the long struggle in a harsh land, the ravages of war, or the corruption of some dark force, they left their humanity behind and became what we call the broken. Now, they exist only to kill, to destroy.\n\nWe fear the broken for their savagery. But, more than this, we fear them as a dark portent of what we might one day become.",
-      "Quest": "Years ago, an Ironlander child was taken by a broken tribe. Now they are seen living among them. What is your connection to this person? Can they be brought home, or are they forever lost?"
+      "Features": [ "Irrer Blick", "Bemalte Haut", "Wildes Geschrei", "Gestohlene Kleidung und Waffen" ],
+      "Drives": [ "Deine Stärke zeigen", "Deinen Schmerz mitteilen" ],
+      "Tactics": [ "Springe aus einem Versteck hervor", "Greife wild an" ],
+      "Description": "Lange bevor unseresgleichen die Eisenlande besiedelten, setzte ein anderes Volk aus der Alten Welt hierher über. Irgendetwas ist mit ihnen geschehen, hat sie verändert. Vielleicht war es der langwierige Überlebenskampf in diesem unwirtlichen Land, vielleicht wurden sie vom Krieg gezeichnet oder von einer finsteren Macht verdorben. Sie verloren ihre Menschlichkeit und wurden zu denen, die wir heute die Gebrochenen nennen. Nun leben sie einzig für Mord und Zerstörung.\n\nWir fürchten die Wildheit der Gebrochenen. Noch mehr aber fürchten wir die düstere Verheißung, die sie für unser eigenes Schicksal bedeuten.",
+      "Quest": "Vor langer Zeit raubte ein Stamm der Gebrochenen ein eisenländisches Kind, das bei den Gebrochenen aufwuchs und wie sie wurde. In welcher Verbindung stehst du zu dieser Person? Kann sie heimgeholt werden oder ist sie für immer verloren?"
     },
     {
-      "Name": "Common Folk",
-      "Rank": "Troublesome",
+      "Name": "Einfache Leute",
+      "Rank": "Lästig",
       "Source":
       {
         "Name": "Ironsworn rulebook",
         "Page": "139"
       },
-      "Features": [ "Diverse looks", "Weary and worried", "Suspicious of strangers" ],
-      "Drives": [ "Prepare for winter", "Protect my family" ],
-      "Tactics": [ "Desperate defense", "Stand together" ],
-      "Description": "Most of us in the Ironlands are common folk. We are farmers, laborers, crafters, sailors, and traders. When trouble comes, we know which way the pointy end goes and we stand together to protect our homes and kin.",
-      "Quest": "Two prominent families are at odds. What is the source of the conflict? What is your relationship to them? What danger threatens to destroy their community if they can’t put aside their petty squabble?"
+      "Features": [ "Vielfältiges Aussehen", "Müde und besorgt", "Misstrauisch gegenüber Fremden" ],
+      "Drives": [ "Für den Winter vorsorgen", "Die Familie beschützen" ],
+      "Tactics": [ "Verteidige dich verzweifelt", "Haltet zusammen" ],
+      "Description": "Die meisten von uns hier in den Eisenlanden sind einfache Leute. Wir sind Bauern und Arbeiter, Seeleute, Handwerker oder Händler. Wenn Ärger droht, wissen wir, wohin das spitze Ende gehört. Wir halten zusammen und verteidigen Heim und Familie.",
+      "Quest": "Zwei wichtige Familien liegen im Zwist. Was ist der Grund für den Konflikt? In welcher Beziehung stehst du zu den Familien? Welches Unheil droht der Gemeinschaft, falls sie ihre Streitigkeiten nicht beilegen können?"
     },
     {
-      "Name": "Hunter",
-      "Rank": "Dangerous",
+      "Name": "Jäger",
+      "Rank": "Gefährlich",
       "Source":
       {
         "Name": "Ironsworn rulebook",
         "Page": "139"
       },
-      "Features": [ "Wearing hides and furs to ward away the cold", "Steely gaze", "At home in the woodlands" ],
-      "Drives": [ "A clean kill", "Survive the hunt" ],
-      "Tactics": [ "Set traps", "Keep to the shadows", "Deadly shot" ],
-      "Description": "Hunters face brutal weather, difficult terrain, dangerous animals, and worse. Many never return from their hunts. Others return, but are forever changed.",
-      "Quest": "A hunter returns to her village, panic-stricken and pleading for help. The rest of her party is still out there. What happened to them?"
+      "Features": [ "Gegen die Kälte in Leder und Felle gehüllt", "Eiserner Blick", "In der Wildnis zuhause" ],
+      "Drives": [ "Eine Beute sauber erlegen", "Die Jagd überleben" ],
+      "Tactics": [ "Stelle Fallen", "Halte dich in den Schatten", "Schiesse, um zu töten" ],
+      "Description": "Jäger sind unerbittlicher Witterung, schwierigem Gelände, gefährlichen Tieren und Schlimmerem ausgesetzt. Viele kehren nicht von der Jagd zurück. Andere, die zurückkehren, wurden von der Jagd unwiederbringlich verändert.",
+      "Quest": "Eine Jägerin kehrt angsterfüllt in ihr Dorf zurück und fleht um Hilfe. Der Rest ihres Jagdtrupps ist noch da draußen. Was ist mit ihm geschehen?"
     },
     {
-      "Name": "Mystic",
-      "Rank": "Dangerous",
+      "Name": "Krieger",
+      "Rank": "Gefährlich",
       "Source":
       {
         "Name": "Ironsworn rulebook",
         "Page": "140"
       },
-      "Features": [ "Knowing eyes", "Tattooed skin" ],
-      "Drives": [ "Respect the Old Ways", "Seek the paths of power" ],
-      "Tactics": [ "Foresee the intent of my enemies", "Prepare rituals", "Use trickery" ],
-      "Description": "Some say you can tell a mystic by looking them in the eye. They walk in two worlds, and their eyes shimmer with that dark reflection of realms beyond our own. We call it the sight. Some hold that darkness in check. Others are consumed by it.",
-      "Quest": "A mystic returns to their home after a years-long journey. They are changed. What new power or knowledge do now they wield? What do they seek to do with it? Why do you oppose them?"
+      "Features": [ "Schlachterprobt", "Vernarbt" ],
+      "Drives": [ "Den Rausch des Kampfes spüren", "Seine Untergebenen beschützen", "Einen weiteren Tag überleben" ],
+      "Tactics": [ "Manövriere dich in eine günstige Position", "Suche nach einer Schwachstelle" ],
+      "Description": "Manche Eisenländer heben sich in ihrem Kampfesgeschick vom einfachen Volk ab. Sie sind für den Kampf ausgebildet oder schlicht dazu geboren. Schwerter, Speere und Äxte sind für sie Werkzeuge wie für andere ein Hammer oder ein Spaten.",
+      "Quest": "Eine alte, legendäre Kriegerin schwört, sich einem fürchterlichen Feind in einem letzten Kampf zu stellen. Was erbittet sie von dir, und weshalb? Wer ist ihr Feind?",
+      "Truth": "Krieger schmücken ihre Schilde oft mit bedeutsamen Zeichen. Worum handelt es sich dabei? Familienwappen? Totems von Tiergeistern? Mystische Runen? Zeichen, die an die Nationen der Alten Welt erinnern? Falls du einen Schild trägst, was ist auf ihn gemalt?"
     },
     {
-      "Name": "Raider",
-      "Rank": "Dangerous",
+      "Name": "Mystiker",
+      "Rank": "Gefährlich",
       "Source":
       {
         "Name": "Ironsworn rulebook",
         "Page": "140"
       },
-      "Features": [ "Geared for war", "Battle fervor" ],
-      "Drives": [ "What is theirs will be ours", "Stand with my kin", "Die a glorious death" ],
-      "Tactics": [ "Intimidate", "Shield Wall", "Burn it Down" ],
-      "Description": "Raiders survive by seizing what they need from others. Our grain. Our meat. Our animals. Our iron. They’ll take it all, and leave us facing the long winter with nothing to sustain us but prayers to indifferent gods.",
-      "Quest": "You were raised as a raider, born to battle, but long ago left that life. Troubled by your past, you vow to wipe this powerful clan from the Ironlands. How can you defeat them? What will happen when you must face your former shield-kin?",
-      "Truth": "A large raider clan is known and feared throughout the Ironlands. What is it called? Who leads it?"
+      "Features": [ "Wissende Augen", "Tätowierte Haut" ],
+      "Drives": [ "Die alten Bräuche achten", "Die Pfade der Macht ergründen" ],
+      "Tactics": [ "Sieh die Absichten deiner Feinde voraus", "Bereite Rituale vor", "Wende eine List an" ],
+      "Description": "Manche sagen, man erkenne Personen mit mystischen Fähigkeiten, wenn man ihnen in die Augen schaue. Sie wandeln in zwei Welten und in ihrem Blick spiegeln sich die Schatten jenseitiger Orte. Wir nennen es das zweite Gesicht. Manche halten die Finsternis im Zaum – andere werden von ihr aufgezehrt.",
+      "Quest": "Ein Mystiker kehrt nach jahrelanger Reise verändert nach Hause zurück. Über welche neue Macht oder welches geheime Wissen verfügt er nun? Was versucht er damit zu erreichen? Warum widersetzt du dich seinem Ansinnen?"
     },
     {
-      "Name": "Warrior",
-      "Rank": "Dangerous",
+      "Name": "Plünderer",
+      "Rank": "Gefährlich",
       "Source":
       {
         "Name": "Ironsworn rulebook",
         "Page": "141"
       },
-      "Features": [ "Battle-hardened", "Scarred" ],
-      "Drives": [ "The thrill of the fight", "Protect those in my charge", "Survive another day" ],
-      "Tactics": [ "Maneuver for advantage", "Find an opening" ],
-      "Description": "Some Ironlanders, through strength of arms, set themselves apart from the common rabble. They are trained to fight, or simply born to it. For them, a sword, spear or axe is as natural a tool as any hammer or spade.",
-      "Quest": "A legendary warrior, now well past their prime, swears to face a daunting foe in one final battle. What help do they ask of you and why? Who is their enemy?",
-      "Truth": "Warrior’s shields are often emblazoned with meaningful symbols. What are they? Family crests? Animal totems? Mystical sigils? Motifs honoring the nations of the Old World? If you carry a shield, what is painted on yours?"
+      "Features": [ "Für den Krieg gerüstet", "Kampfeslustig" ],
+      "Drives": [ "Sich nehmen, was anderen gehört", "Den eigenen Leuten beistehen", "Einen glorreichen Tod finden" ],
+      "Tactics": [ "Schüchtere ein", "Bilde einen Schildwall", "Brenne nieder" ],
+      "Description": "Plünderer leben davon, sich von anderen zu nehmen, was sie brauchen: unser Korn, unser Fleisch, unsere Tiere und unser Eisen. Sie nehmen einfach alles mit, sodass uns für den langen Winter nichts bleibt als unsere Gebete zu gleichgültigen Göttern.",
+      "Quest": "Du bist unter Plünderern aufgewachsen, geboren, um zu kämpfen, doch du hast dieses Leben vor langer Zeit hinter dir gelassen. Verfolgt von deiner Vergangenheit schwörst du, diesen mächtigen Clan aus den Eisenlanden zu vertreiben. Wie kannst du ihn besiegen? Was wird passieren, wenn du deinen früheren Schildbrüdern und -schwestern gegenüberstehst?",
+      "Truth": "Ein großer Plünderer-Clan ist überall in den Eisenlanden bekannt und gefürchtet. Wie heißt er? Wer führt ihn an?"
     },
     {
       "Name": "Husk",
@@ -121,23 +121,23 @@
     } ]
   },
   {
-    "Name": "Firstborn",
-    "Description": "The firstborn lived here long before the humans landed on these shores. The humans, in their arrogance, named this peninsula the Ironlands and called themselves Ironlanders—but the firstborn gave it names of their own in a time beyond the reach of memory.",
+    "Name": "Erstgeborene",
+    "Description": "In ihrer Arroganz tauften die Menschen die Halbinsel auf den Namen Eisenlande und benannten sich selbst nach ihr, doch besaß sie bereits einen Namen – in der uralten Sprache der Erstgeborenen, die schon hier lebten, lange bevor die Menschen erstmals Fuß auf dieses Land setzten.",
     "Foes": [
     {
-      "Name": "Elf",
-      "Rank": "Dangerous",
+      "Name": "Alben",
+      "Rank": "Gefährlich",
       "Source":
       {
         "Name": "Ironsworn rulebook",
         "Page": "142"
       },
-      "Features": [ "Large, luminous eyes seen through wooden masks", "Gray-green skin the texture of dry leaves", "Sonorous voices", "Wielding bows and spears" ],
-      "Drives": [ "Protect the wilds", "Drive out trespassers, or see them pay" ],
-      "Tactics": [ "Strike from shadow", "Force their surrender", "Turn the forest against them" ],
-      "Description": "Elves are strange beings of the forest, seldom seen beyond the ancient woods of the Deep Wilds. They are fiercely protective of their lands and suspicious of humans. Their scouts patrol the borderlands, riding the fearsome mounts we call gaunts (page 149). Others of their kind watch us from the shadow of the deep woods, spears and bow at the ready. Some say elven mystics can bind the animals and beasts of the forest to aid in the defense of the Wilds.\n\nA few warn that the elves are biding their time, readying the attack which will drive us from these lands.",
-      "Quest": "The leader of an Ironlander community seeks an audience with the elves. For what purpose? Why are you compelled to help?",
-      "Truth": "Elves conceal their faces behind ornate wooden masks. What do these masks signify?"
+      "Features": [ "LGroße Augen leuchten hinter einer hölzernen Maske", "Graugrüne Haut, die sich anfühlt wie getrocknete Blätter", "Wohlklingende Stimme", "Mit Speer und Bogen bewaffnet" ],
+      "Drives": [ "Die Wildnis schützen", "Eindringlinge vertreiben oder büßen lassen" ],
+      "Tactics": [ "Greife aus den Schatten an", "Zwinge sie zur Aufgabe", "Bringe den Wald gegen sie auf" ],
+      "Description": "Alben sind eigenartige Waldwesen, denen man selten außerhalb der uralten Tiefen Wälder begegnet. Sie misstrauen den Menschen und verteidigen ihr Land erbittert. Albische Späher patrouillieren die Grenzlande auf ihren furchterregenden Reittieren, die wir Mahre (S. 148) nennen. Andere ihrer Art beobachten uns aus den Schatten der Bäume, die Speere und Bögen jederzeit kampfbereit. Man sagt, die Mystiker der Alben könnten die Bestien und Tiere der Wälder an sich binden, damit sie ihnen bei der Verteidigung der Natur zur Seite stünden.\n\nWarnende Stimmen behaupten, die Alben würden sich geduldig auf den großen Angriff vorbereiten, der uns aus den Eisenlanden vertreiben soll.",
+      "Quest": "Die Anführerin einer eisenländischen Siedlung möchte eine Audienz mit den Alben. Zu welchem Zweck? Weshalb wirst du zu Hilfe gerufen?",
+      "Truth": "Alben verbergen ihre Gesichter hinter verzierten Holzmasken. Welche Bedeutung haben diese Masken?"
     },
     {
       "Name": "Giant",
